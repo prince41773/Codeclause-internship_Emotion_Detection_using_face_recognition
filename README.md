@@ -21,7 +21,7 @@ This Flask application allows users to upload images or videos and detect emotio
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/emotion-detection-app.git
+    git clone https://github.com/prince41773/Codeclause-internship-Face_Recognition_Application.git
     cd emotion-detection-app
     ```
 
